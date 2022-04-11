@@ -33,8 +33,8 @@ End the program.
 ```
 ~~~
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by: 
-RegisterNumber:  
+Developed by:A.Sasidharan
+RegisterNumber:212221240049
 ~~~
 import pandas as pd
 import matplotlib.pyplot as plt
